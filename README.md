@@ -1,1 +1,1 @@
-# BQ-5731L-Magic-S
+android-9
